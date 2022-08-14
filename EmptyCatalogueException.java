@@ -1,5 +1,3 @@
-package Exercitii.StudentCatalogue;
-
 class EmptyCatalogueException extends Exception{
 
     EmptyCatalogueException (){
