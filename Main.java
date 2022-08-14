@@ -1,5 +1,3 @@
-package Exercitii.StudentCatalogue;
-
 import java.io.IOException;
 
 public class CourseMain {
