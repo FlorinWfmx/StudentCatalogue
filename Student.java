@@ -5,7 +5,7 @@ public class Student {
     private int firstMark;
     private int secondMark;
     private int finalExamMark;
-    private double GPA;
+    private double GPA;  // GPA (Graduation Point Average, here considered as an average consisting on 25% * first mark, 25% * second mark, 50% * final exam)
 
     public Student(String name, String surname, int firstMark, int secondMark, int finalExamMark) {
         this.name = name;
