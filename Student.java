@@ -1,5 +1,3 @@
-package Exercitii.StudentCatalogue;
-
 public class Student {
 
     private String name;
